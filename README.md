@@ -53,9 +53,8 @@
 
 
 ## Output:
-<img width="941" alt="Screenshot 2023-12-26 091925" src="https://github.com/srishanth2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN<img width="828" alt="Screenshot 2023-12-26 085123" src="https://github.com/srishanth2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319470/cc0f5f9c-9ac0-4acc-9a94-825cb101794e">
--MECHANISM/assets/150319470/fcd0894a-de95-4b52-b117-454d2bc51559">
-
+<img width="828" alt="Screenshot 2023-12-26 085123" src="https://github.com/srishanth2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319470/b0b289ca-09e9-4a04-9a28-ff566e86894d">
+<img width="941" alt="Screenshot 2023-12-26 091925" src="https://github.com/srishanth2006/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/150319470/b124c257-009c-445b-9c4c-572c6d7f537d">
 
 ### Name:SRISHANTH J
 ### Register Number: 212223240160
